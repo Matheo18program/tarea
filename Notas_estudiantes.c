@@ -28,7 +28,7 @@ int main() {
     }
 
     // Promedio por asignatura
-    printf("\n--- PROMEDIO POR ASIGNATURA ---\n");
+    printf("\n PROMEDIO POR ASIGNATURA \n");
     for(j = 0; j < 3; j++) {
         suma = 0;
         for(i = 0; i < 5; i++) {
